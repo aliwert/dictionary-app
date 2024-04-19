@@ -8,3 +8,9 @@
 - Display word definitions, examples, and pronunciation.
 - Show synonyms for the searched word.
 - Play audio pronunciation of the word.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
