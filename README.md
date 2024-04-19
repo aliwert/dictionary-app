@@ -5,7 +5,7 @@
 
 - This is a simple dictionary web application that allows users to search for the meaning of English words, view their definitions, examples, synonyms, and listen to their pronunciation.
 
-## Features
+## 🤖Features
 
 - Search for the meaning of English words.
 - Display word definitions, examples, and pronunciation.
@@ -19,5 +19,5 @@
 - JavaScript (including Fetch API for making HTTP requests)
 
 
-## Contributions
+## 👽Contributions
 - Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
