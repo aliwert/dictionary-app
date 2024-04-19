@@ -16,4 +16,4 @@
 
 - HTML
 - CSS
-- JavaScript
+- JavaScript (including Fetch API for making HTTP requests)
