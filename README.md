@@ -12,7 +12,7 @@
 - Show synonyms for the searched word.
 - Play audio pronunciation of the word.
 
-## Technologies Used
+## 🛠️Technologies Used
 
 - HTML
 - CSS
