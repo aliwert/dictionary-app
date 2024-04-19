@@ -17,3 +17,7 @@
 - HTML
 - CSS
 - JavaScript (including Fetch API for making HTTP requests)
+
+
+## Contributions
+- Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
